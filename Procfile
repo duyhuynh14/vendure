@@ -1,1 +1,1 @@
-web: npm run bootstrap build dev-server:start
+web: yarn bootstrap & yarn build & cd packages/dev-server & yarn populate & yarn start
