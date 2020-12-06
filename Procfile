@@ -1,1 +1,1 @@
-web: yarn bootstrap & yarn build & cd packages/dev-server & yarn populate & yarn start
+web: PORT= 443 yarn build & cd packages/dev-server & yarn populate & yarn start
