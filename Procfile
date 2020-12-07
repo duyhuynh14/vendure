@@ -1,1 +1,1 @@
-web: yarn build & cd packages/dev-server & yarn populate & yarn start
+web: yarn packages/dev-server populate & yarn packages/dev-server start
